@@ -10,7 +10,7 @@ df = read_csv("data/weatherAUS.csv")
 
 # Create a scatter plot of Humidity9am and Temp9am in a location
 
-city = "Perth"
+city = "Sydney"
 
 scatter_plot = 
 df %>%
