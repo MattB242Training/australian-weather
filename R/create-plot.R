@@ -1,3 +1,5 @@
+#Hello
+
 # Simple script analysing the Australian weather data
 
 library("tidyverse")
